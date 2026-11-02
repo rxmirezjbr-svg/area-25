@@ -1,0 +1,13 @@
+AREA 25 - APK SIN INSTALAR NADA (usando GitHub, gratis)
+
+1) Entra a github.com e inicia sesion (o crea una cuenta gratis).
+2) Toca "New repository", ponle nombre area-25 y crealo.
+3) Toca "uploading an existing file" y arrastra TODO el contenido de esta
+   carpeta (incluida la carpeta oculta .github). Confirma con "Commit changes".
+4) Ve a la pestana "Actions". Espera unos 5 a 8 minutos a que termine
+   "Compilar Area 25 (APK)" (tilde verde).
+5) Abre esa ejecucion y baja a "Artifacts": descarga "Area-25-APK".
+6) Descomprime, pasa app-debug.apk al celular e instalalo
+   (permite "instalar apps de origen desconocido" si lo pide).
+
+La app funciona sin internet una vez instalada.
